@@ -113,4 +113,4 @@ uv を使用する場合：
 uv add markdantic
 ```
 
-※ PyPI で公開予定。
+※ PyPI で公開中
